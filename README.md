@@ -1,16 +1,16 @@
-# visual_gpt
+# VisualGPT - ChatGPT with AI Image Generation
 
-A new Flutter project.
+VisualGPT is a web application built with Flutter that combines the power of ChatGPT with the ability to generate AI images.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+VisualGPT is an AI-powered chatbot that allows users to have a conversation with a language model trained on a vast corpus of text data. But, unlike other chatbots, VisualGPT also has the ability to generate images based on text prompts.
 
-A few resources to get you started if this is your first Flutter project:
+With VisualGPT, users can enter a text prompt and receive an AI-generated image related to the prompt. For example, if a user enters the prompt "A sunny day at the beach", VisualGPT can generate an image of a beach scene on a sunny day.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Chat with an AI language model trained on a vast corpus of text data
+* Generate AI images based on text prompts
+* View generated images alongside the corresponding prompts
+* Save generated images to the device's camera roll
