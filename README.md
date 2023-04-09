@@ -10,7 +10,7 @@ With VisualGPT, users can enter a text prompt and receive an AI-generated image 
 
 <br>
 
-<img src="https://cdn.discordapp.com/attachments/1091358303063396496/1094578812563488868/1.jpg" height="430" width="200"/> &nbsp; <img src="https://cdn.discordapp.com/attachments/1091358303063396496/1094580785824141352/5.jpg" height="430" width="250"/> &nbsp; <img src="https://cdn.discordapp.com/attachments/1091358303063396496/1094580786042253402/6.jpg" height="430" width="250"/>
+<img src="https://cdn.discordapp.com/attachments/1091358303063396496/1094578812563488868/1.jpg" height="430" width="200"/> &nbsp;&nbsp; <img src="https://cdn.discordapp.com/attachments/1091358303063396496/1094580785824141352/5.jpg" height="430" width="250"/> &nbsp;&nbsp; <img src="https://cdn.discordapp.com/attachments/1091358303063396496/1094580786042253402/6.jpg" height="430" width="250"/>
 
 <br>
 
@@ -25,7 +25,7 @@ With VisualGPT, users can enter a text prompt and receive an AI-generated image 
 
 <br>
 
-<img src="https://cdn.discordapp.com/attachments/1091358303063396496/1094578811766571008/3.jpg" height="430" width="250"/> &nbsp; <img src="https://cdn.discordapp.com/attachments/1091358303063396496/1094578812005658654/4.jpg" height="430" width="250"/> &nbsp; <img src="https://cdn.discordapp.com/attachments/1091358303063396496/1094578812290867240/2.jpg" height="430" width="250"/>
+<img src="https://cdn.discordapp.com/attachments/1091358303063396496/1094578811766571008/3.jpg" height="430" width="250"/> &nbsp;&nbsp; <img src="https://cdn.discordapp.com/attachments/1091358303063396496/1094578812005658654/4.jpg" height="430" width="250"/> &nbsp;&nbsp; <img src="https://cdn.discordapp.com/attachments/1091358303063396496/1094578812290867240/2.jpg" height="430" width="250"/>
 
 <br>
 
